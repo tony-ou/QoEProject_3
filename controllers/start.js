@@ -4,7 +4,6 @@ var fs = require('fs');
 
 const vid_folder = "Soccer_720p_2_500k_360";
 var vid_path = "./videos/" + vid_folder;
-//https://raw.githubusercontent.com/tony-ou/QoE_experiments/master/videos/Soccer_720p_2_500k_360/1.mp4
 var video_url = "https://raw.githubusercontent.com/tony-ou/QoEProject_3/master/videos/" + vid_folder + "/";
 var reference_src = video_url + "1.mp4";
 var num_vids;
@@ -31,7 +30,6 @@ var post_example = async (ctx, next) => {
         video_order : video_order,
         count : 1,
         result : [],
-        test: [],
         video_time : [],
         grade_time : [],
         start : start
@@ -51,7 +49,7 @@ var post_start = async (ctx, next) => {
     var video_src = video_url + "1.mp4";
     // https://github.com/michaelliao/learn-javascript/raw/master/video/vscode-nodejs.mp4
     // very interesting url!
-console.log(video_src)
+
     var title = "1/" + num_vids;
     ctx.render('video.html', {
         title: title, video_src : video_src
@@ -91,6 +89,11 @@ var post_back2video = async (ctx, next) => {
             title: title, video_src : video_src
         });
     }
+    else if  (user.video_order[user.count - 1] == 2) {
+        ctx.render('bad_video.html', {
+            title: title, video_src : video_src
+        });
+    }
     else { 
         ctx.render('2video.html', {
         title: title, reference: reference_src,  video_src: video_src
@@ -101,9 +104,7 @@ var post_back2video = async (ctx, next) => {
 var post_next = async (ctx, next) => {
     var user = ctx.state.user;
     var grade = ctx.request.body.sentiment;
-    var attention_test = Number(ctx.request.body.blur)+ Number(ctx.request.body.stall);
     user.result.push(grade);
-    user.test.push(attention_test);
     var end = new Date().getTime();
     var exe_time = end - user.start;
     user.grade_time[user.count-1] += exe_time;
@@ -117,10 +118,15 @@ var post_next = async (ctx, next) => {
         // set new cookie
         let value =  Buffer.from(JSON.stringify(user)).toString('base64');
         ctx.cookies.set('name', value);
-  
-        ctx.render('2video.html', {
-            title: title, reference: reference_src,  video_src: video_src
-        });
+        if  (user.count == 2) {
+            ctx.render('bad_video.html', {
+                title: title, video_src : video_src
+            });
+        } else {
+            ctx.render('2video.html', {
+                title: title, reference: reference_src,  video_src: video_src
+            });
+        }
     }
     else {
          // set new cookie
@@ -144,11 +150,9 @@ var post_end = async (ctx, next) => {
     console.log(user.result);
     var filename = "./results/" + user.mturkID + ".txt";
     var write_data = [];
-    var write_test = [];
     var write_video_time = [], write_grade_time =[];
     for(var i in user.video_order) {
         write_data[user.video_order[i] - 1] = user.result[i];
-        write_test[user.video_order[i] - 1] = user.test[i];
         write_video_time[user.video_order[i] - 1] = user.video_time[i];
         write_grade_time[user.video_order[i] - 1] = user.grade_time[i];
     }
@@ -156,7 +160,7 @@ var post_end = async (ctx, next) => {
                 write_video_time + '\n'
                  + write_grade_time + '\n' + user.mturkID + '\n' 
                  + user.device + '\n' + user.age + '\n' 
-                 + user.network + '\n' + user.reason+ '\n' + write_test , function(err) {
+                 + user.network + '\n' + user.reason, function(err) {
         if(err) {
             return console.log(err);
         }

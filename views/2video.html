@@ -41,8 +41,17 @@
         <div class="col">            
             <div class="row">
                 <div class="col" >
+                     <div class="dash-video-player">
+                        <video id="l_video" preload="metadata" width="1024" height="576"  controls="controls" src={{reference}} ></video>
+                    <div  style="text-align:center"> 
+                        <h2>Best Quality Reference</h2> 
+                    </div>
+                    </div>
+                </div></br></br>
+
+                <div class="col" >
                     <div class="dash-video-player">
-                        <video id="r_video" preload="auto" width="1024" height="576"  controls="controls"></video>
+                        <video id="r_video" preload="metadata" width="1024" height="576"  controls="controls" src={{video_src}} ></video>
                         <div  style="text-align:center"> 
                         <h2> Test Video</h2> 
                     </div>
@@ -111,15 +120,34 @@ req.onload = function() {
       // Video is now downloaded
       // and we can set it as source on the video element
       document.getElementById('r_video').src = vid;
+   }
+}
+
+
+req.send();
+
+
+var req =  createCORSRequest('GET','{{reference}}');
+req.responseType = 'blob';
+
+req.onload = function() {
+   // Onload is triggered even on 404
+   // so we need to check the status code
+   if (this.status === 200) {
+      var videoBlob = this.response;
+      var vid = URL.createObjectURL(videoBlob); // IE10+
+      // Video is now downloaded
+      // and we can set it as source on the video element
+      document.getElementById('l_video').src = vid;
       alert('video loaded');
    }
 }
-req.onerror = function() {
-   // Error
-}
+
 
 req.send();
+
 </script>
+
 </html>
 
 
