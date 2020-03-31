@@ -1,0 +1,10 @@
+5,1,2,3,3,3,2
+1,2,4,5,3,7,6
+65073,40464,44196,50889,42819,46284,71207
+29436,18975,11645,21724,8316,9252,9994
+A3QIG18VHBXBSZ
+Desktop
+60 and above
+WiFi
+The stalls were annoying particularly during or preceding a score. Did not notice any blurring of any of the test samples. I didn't really need to look at the reference again. 
+2,4,4,4,4,4,4

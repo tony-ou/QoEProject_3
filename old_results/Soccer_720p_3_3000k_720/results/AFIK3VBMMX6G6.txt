@@ -1,0 +1,10 @@
+5,1,2,2,2,1,2
+1,2,7,5,4,6,3
+61032,38214,46508,71765,74290,72298,44880
+12455,12171,4846,5059,6868,5757,5190
+AFIK3VBMMX6G6
+Laptop
+32 - 38
+Cable network
+All contained stalls between 2-3.5 seconds. Timing of the stall made a big impact, such as when scoring
+2,4,4,4,4,4,4

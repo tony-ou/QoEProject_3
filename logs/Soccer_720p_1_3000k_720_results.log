@@ -1,0 +1,220 @@
+LOG OF Soccer_720p_1_3000k_720 SURVEY RESULTS
+
+########
+#GRADES#
+########
+
+RAW GRADES:
+[5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[2 4 1 3 4 3 3 3 4 3 1 1 3 1 4 2 5 3 1 1 4 1 1 1 4 4 1 3 4 1 3]
+[2 3 1 3 4 3 2 3 4 3 2 4 3 1 4 2 5 3 1 1 4 1 1 1 4 4 1 3 4 1 4]
+[2 3 1 2 4 3 3 3 4 3 2 2 3 1 3 2 4 3 1 1 4 1 1 1 4 4 1 3 4 1 1]
+[2 3 1 3 4 2 2 2 3 3 1 1 3 1 3 2 3 3 1 1 4 1 1 1 4 1 1 2 4 1 1]
+[3 3 1 3 4 3 3 4 4 3 2 3 3 1 5 2 4 4 1 1 4 1 1 1 4 4 1 3 4 2 4]
+MEAN:
+[5.    1.    2.548 2.645 2.419 2.097 2.774]
+STANDARD ERROR:
+[0.    0.    0.232 0.226 0.208 0.195 0.222]
+
+STANDARDIZED GRADES:
+[2.183 1.651 2.449 1.905 1.108 1.905 1.969 1.673 1.213 1.871 2.291 1.716
+ 1.871 2.449 1.104 2.339 0.843 1.651 2.449 2.449 1.108 2.449 2.449 2.449
+ 1.108 1.155 2.449 1.905 1.108 2.372 1.449]
+[-1.213 -1.905 -0.408 -1.651 -2.339 -1.651 -1.477 -1.673 -2.183 -1.871
+ -0.764 -0.953 -1.871 -0.408 -1.988 -1.108 -2.108 -1.905 -0.408 -0.408
+ -2.339 -0.408 -0.408 -0.408 -2.339 -1.54  -0.408 -1.651 -2.339 -0.516
+ -1.086]
+[-0.364  0.762 -0.408  0.127  0.246  0.127  0.246  0.     0.364  0.
+ -0.764 -0.953  0.    -0.408  0.331 -0.246  0.843 -0.127 -0.408 -0.408
+  0.246 -0.408 -0.408 -0.408  0.246  0.481 -0.408  0.127  0.246 -0.516
+  0.181]
+[-0.364 -0.127 -0.408  0.127  0.246  0.127 -0.615  0.     0.364  0.
+  0.     1.049  0.    -0.408  0.331 -0.246  0.843 -0.127 -0.408 -0.408
+  0.246 -0.408 -0.408 -0.408  0.246  0.481 -0.408  0.127  0.246 -0.516
+  0.815]
+[-0.364 -0.127 -0.408 -0.762  0.246  0.127  0.246  0.     0.364  0.
+  0.    -0.286  0.    -0.408 -0.442 -0.246  0.105 -0.127 -0.408 -0.408
+  0.246 -0.408 -0.408 -0.408  0.246  0.481 -0.408  0.127  0.246 -0.516
+ -1.086]
+[-0.364 -0.127 -0.408  0.127  0.246 -0.762 -0.615 -0.837 -0.485  0.
+ -0.764 -0.953  0.    -0.408 -0.442 -0.246 -0.632 -0.127 -0.408 -0.408
+  0.246 -0.408 -0.408 -0.408  0.246 -1.54  -0.408 -0.762  0.246 -0.516
+ -1.086]
+[ 0.485 -0.127 -0.408  0.127  0.246  0.127  0.246  0.837  0.364  0.
+  0.     0.381  0.    -0.408  1.104 -0.246  0.105  0.762 -0.408 -0.408
+  0.246 -0.408 -0.408 -0.408  0.246  0.481 -0.408  0.127  0.246  0.206
+  0.815]
+MEAN:
+[ 1.842e+00 -1.346e+00 -5.359e-02 -3.962e-04 -1.544e-01 -4.004e-01
+  1.133e-01]
+STANDARD ERROR:
+[0.095 0.127 0.075 0.075 0.063 0.074 0.074]
+
+#############
+#VIDEO ORDER#
+#############
+
+RAW ORDERS:
+[1 2 5 7 4 6 3]
+[1 2 6 7 4 3 5]
+[1 2 7 3 6 4 5]
+[1 2 5 7 6 3 4]
+[1 2 5 3 4 6 7]
+[1 2 6 4 7 5 3]
+[1 2 7 3 6 4 5]
+[1 2 3 6 5 7 4]
+[1 2 3 4 6 5 7]
+[1 2 4 7 6 3 5]
+[1 2 7 4 6 5 3]
+[1 2 4 7 5 6 3]
+[1 2 7 3 4 6 5]
+[1 2 7 4 5 6 3]
+[1 2 6 4 3 5 7]
+[1 2 6 5 3 4 7]
+[1 2 3 6 7 4 5]
+[1 2 3 6 7 5 4]
+[1 2 7 4 6 3 5]
+[1 2 5 6 7 3 4]
+[1 2 4 5 6 3 7]
+[1 2 6 7 5 3 4]
+[1 2 4 7 6 5 3]
+[1 2 6 7 3 4 5]
+[1 2 4 5 3 7 6]
+[1 2 4 5 6 7 3]
+[1 2 5 4 7 6 3]
+[1 2 7 4 5 6 3]
+[1 2 5 7 6 3 4]
+[1 2 3 4 6 7 5]
+[1 2 4 3 6 5 7]
+
+#################
+#VIDEO VIEW TIME#
+#################
+
+RAW TIMES:
+[ 59884  86228  43355  59462 127735  72712  60376  66553  85196  50260
+ 100360  62918  50832  48040  50694  49649  68427 106831  78525 129848
+ 123758  55820 152444  31892  94307 122367  71375  63487  64270  62901
+ 111597]
+[ 35730  38956  38099  42054  63849  39995  44515  42515  38278  42368
+  89701  81170  37377  36678  63832  34513  75997  67642  65759  54377
+ 117007  44965 131735  47313  65980 131990  46870  46914  41747  61029
+  52156]
+[ 52477  35723  34329  41474  97013  62470  42339  51860  50884  37042
+  71560  69425  37659  39001  33742  58753  64307  69236  45420  58284
+  67157  56964  60455 158607  63728  36837  83804  50833  34815  53000
+  44660]
+[ 38685  32804  37177  44113  58011  64137  69494  49535  32620  35457
+  70101  50656  33275  35166  53852  34208  62954      0  80130  60388
+  66284  38695  58281  25706  50203  69474  90881  95890  43136 113322
+ 133423]
+[ 34846  39025  34869  59794  74909  39368  41413  43935  32132  33399
+  58980 102574  32747  32547  35143  38367  57148  39548  45964  67996
+  70582  49909  60720  41384  56135  65894  68269  45081 385638  81443
+  47618]
+[32511 35688 82456 41308 88556 39116 40024 38963 33147 34021 57019 38688
+ 34539 32015 48907 39155 79426 36008 45485 43506 66265 74164     0 50070
+ 56985 38042 63845 49697 64403 47138 45162]
+[ 34009  48664  33916  47152  61225  38818  44287  40772  36482  35198
+  70209  52009  35595  35577  46892  34985  76707  57656  48615  41487
+  61941  43783 100479  44311  50996  49460  63632  46956  51357  42271
+  41163]
+MEAN:
+[77809.774 58745.516 56898.645 55743.806 61850.871 47622.871 48922.71 ]
+
+#################
+#GRADE VIEW TIME#
+#################
+
+RAW TIMES:
+[12515 10484 20409 16101  8526 84013 47832  7661 12531  8862 14164 21720
+  6349  5758 13207 12650 10071 12063 14878 54167 33121  6400 19327  8646
+ 29559  3708 10744 22139 25614 12738 20934]
+[14800 17620  9862 22354 29534 20963  6292 29292 14660 25345 14073 47102
+ 21818 19430 14007 26100  9194  9145 20270 31539 14724  7021 63583  6985
+ 33469  4209  9036 16691 26245 16274  9276]
+[14913 12224 16419  6510  5996 10555  6961  7430 13983  6329  7512 13077
+  6449  3908 15944  8742 14263 86215  8155 21689  8564 10155 42212  5723
+ 10784  5163 10600 24694  7969 11867 10510]
+[14996 31517  6779  6164  5424  9352  5721  7768  7451  8556 11414 35789
+  6357  4753 11470 11005  7611 22669  7450 18869 16966 14710 13759  5895
+ 15271  7703 17464  8695 10363  8373 11921]
+[16782 14555  5780 10395  9470  8815  5829 11215  5287  4470 14605 35801
+  4319  4817 12730  7525  7773 10266  9441 16076 16441  5526 15267  6170
+ 32706  5849 24523 11459 14533 82524  5792]
+[14147 10520  6550 11199  5902 13460  6794  8974  7301  4269  7516 10141
+  5525  4838 19685 17872 14691  7349  8576 34929  7215  6732 58924  6047
+  9335  8420 18850 15254  8401 27739  7639]
+[10256  9164  8660  9548  7593  8929  8606  8824  6409  7480 17850 27941
+  6158  6016 18563  8984  8858 12017  7515 16679 16621  8071 18241 62935
+ 16469  4950 23076 18090 19187  9502  9433]
+MEAN:
+[18931.968 19706.871 14048.871 12007.581 14088.419 12735.29  13633.065]
+
+###############
+#DEVICE COUNTS#
+###############
+
+Desktop: 7
+Laptop: 20
+Tablet: 1
+Smart phone: 2
+Other device: 0
+
+##################
+#AGE GROUP COUNTS#
+##################
+
+18 - 24: 4
+25 - 31: 15
+32 - 38: 7
+39 - 45: 2
+46 - 52: 1
+53 - 59: 1
+60 and above: 1
+
+################
+#NETWORK COUNTS#
+################
+
+WiFi: 23
+Cable network: 4
+Cellular network: 3
+Other: 0
+
+###########
+#REASONING#
+###########
+
+A2R75YFKVALBXE: Experiment guidelines are fine, and side-by-side helps a lot. No confusion about the grading. I find the stall more annoying than the blur unless the blur is VERY pronounced, in which case I find them both very annoying.
+A2SUBE14MAZ17P: The impairments, unclear image, make us see less details. The grading was easy to understand, and the side by side help the grading
+A226S9LUL53Q01: It was clear. But the impairments were all the same.
+A2QPMJ4GADLUW2: The stalls are annoying as they break up the flow of the action. I did not see blurs in any of my test videos. The grading is a bit confusing as it is subjective and I don;t know if there is a "right" answer. I did not need the side by side, and I would prefer it was not there so I could have all the space for the test video and to have it larger.
+A1GV1WGA3W6CLG: I didn't notice any blurring at all. A single stall is not too bad but if it happens frequently it would be extremely annoying. Don't see the need for the side-by-side.
+A187QIQEL3S4HP: The impairments affected just a little bit my experience. The stalls were more annoying and the guidelines were clear. The side-by-side comparison helps a lot.
+AHKOW1B4BF0F2: The impairments are more annoying if they appear in the middle of the video. The guideline was clear. The side-by-side comparison was very helpful
+ACBG07QLGIDP0: I think the stalling bad experience is highly dependent on the timestamp it occurs. I didn't see any blurring on the videos I was supposed to grade but in general, it was pretty straightforward. On the last question, I think it's important to have the reference video available to check. Not always necessary, but sometimes it is, so leave it available. One more thing. Give more time to the conclusion of the task. I did this one before, with the blurr impairment, and lost the reward because it took me more than 20min to finish the task and answer this final question. The task is very interesting by the way.
+A1EGQAMPW9N5FT: When the impairment happen in a crucial moment, like when someone is to shoot, is more annoying
+AFIK3VBMMX6G6: short stalls are slightly annoying but more so during climactic moments. Without subsequent blur they can be forgiven quickly
+A1H2AHH07EK4MC: If video stalls where there is interesting place it will be more frustrating. Guideline is understandable and  I'm clear on Grading system. No Side by side comparison will create more confusion 
+A317RA15E0SZ4P: There are only very subtle differences and side by side comparison makes the videos smaller, even on a big screen. So, it is very difficult to identify impairments, especially blurs. Regarding stalls, they are more annoying when they occur at key moments in a match rather than at times when the match has paused. There was very little noticeable blur in the videos except maybe one. However, all of them stalled at different times during the video.
+AAY0F6L5N4TXR: side by side comparisons didnt help much
+A34YKQXWOMUZRC: Everything is very clear.
+A14YT4Q8ZT8GYJ: It's annoying when something important it's going on at the video. it's clear. no confuse. Don't think I should look at the reference again, It's enough. 
+A3FYPNNCB7IQ1P: Stallings were annoying, especially in such exciting sport situations.
+AOSZUQCXN0K9A: Side by side does help grading. I think stalling is not as annoying as blurring. 
+A20863ETFAXW1D: The guidelines were clear enough. I found the 1 second stalling a bit annoying near the beginning of the video, more than at the end. But overall I didn't find it that annoying. There was, however, an issue with the last video not loading (the 7th one). I refreshed and it took me to this page. I couldn't rate the last video, as it never showed (the example video loaded, though).
+A1IMRSDQ7RO9US: i gave the review based on the video quality like blur and stalling.
+A8DFFGPH3G3V5: NO.ITS CLEARLY MENTIONED STEPS AND NOBODY WILL EXPECT ANNOYING SUCH A IMPORTANT GAMES.
+A2EARNRMFJOSIY: side by side comparison helps me more
+A1BANTV8HONS2C: timestamp is not much annoying. the guidelines where clear and there is no confusion to me in understanding. for me i thought only one if you show the reference is enough. no need to show side by side
+AEPK8XRFCD0OI: side-by-side comparison helps to better analyze the details
+A2FEWB3KWM7KX7: The test is very clear, I was able to understand quickly. Having a better quality video helps to understand the mistakes of the second. The second is made worse by knowing what a good quality is like.
+AIV97GGKFRJON: As its placed side by side we are tempted to look into it 
+A22TYEGRHFUFQJ: the guideline was very clear, the timestamp is very important, since it is more annoying at crucial moments of the video, side-by-side comparison was not helpful compared to watch the video on a separate view.
+A29RR6SV0L4D8C: some videos has low quality.The experiment guideline was clear
+A3TLL0KRD80A5Z: Impairments when not a lot of action is happening in the video are acceptable but impairments during interesting timestamps such as scoring of a goal, passing of ball, celebrations can be very irritating and may ruin the whole streaming experience. The experiment guidelines are absolutely clear. No confusions regarding the grading. The initial reference video is more than sufficient for grading, so I don't really need to re look into the reference video again.
+A2IOIYS5OKAE6E: I think most impairments are equal to each other. They are very similar. The guideline is clear. Side-by-side is helpful. 
+A3RU8J5I8NMKPD  : YES I KNOW THE EXPERIMENT GUIDELINE IS CLEAR SO NOT ON CONFUSED GRADED.
+A6KEHDNT925VQ: The impairments at some timesstamps that were crucial to watch were spoiled and that annoyed me. Actually, it seemed the resolution was not good. Not even in the reference video. The guidelines were very clear to me.

@@ -1,0 +1,10 @@
+5,1,2,2,2,2,2
+1,2,6,5,7,4,3
+73750,44512,37858,40604,37240,43505,38102
+16731,20201,5864,6936,6193,8567,6616
+A39C1BN9ZSQ0R2
+Tablet
+32 - 38
+WiFi
+I find stalling annoying no matter what time they happen in a video. Although they are more expected at the start of a video when things are just loading than they are at the end of a video. Everything was clear. I didn't notice any blurring in the test videos, but they all stalled at different points. I didn
+2,4,4,4,4,4,4

@@ -1,0 +1,10 @@
+5,1,2,3,1,4,1
+1,2,7,4,5,6,3
+83276,39365,111565,59159,37602,69716,40790
+24179,27220,22690,9140,8214,12026,11147
+A26L91YL0GDGD8
+Desktop
+53 - 59
+Cable network
+I think the instructions were rather unclear, as well as the grading.  The biggest issue I had was the timer being so short, you're not likely to get good results if we have to worry about the hit expiring.
+2,4,4,4,5,2,4

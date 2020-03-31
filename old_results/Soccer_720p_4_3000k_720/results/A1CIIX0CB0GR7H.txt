@@ -1,0 +1,10 @@
+5,1,1,1,1,1,1
+1,2,3,7,6,5,4
+57822,36788,42380,37744,35950,37010,35677
+15530,23149,8677,7467,5493,7359,6217
+A1CIIX0CB0GR7H
+Desktop
+39 - 45
+Cable network
+The video pausing during very crucial live-action moments, such as when someone scores a goal, is extremely annoying and takes away from the game enjoyment. The experiment was not clear in that in the beginning when you had us rate the reference video as bad, that video I could only recognize a pause in the video and nothing else. So if I am to use that as a reference, I have to mark anything with a one-second pause as the same. I wish the  timing of the pause was better explained at the beginning as to how we wan that to affect our rating.
+2,4,4,4,4,4,4

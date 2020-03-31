@@ -1,0 +1,10 @@
+5,1,3,1,3,1,1
+1,2,7,6,4,5,3
+53059,40555,46217,40003,37099,36290,77261
+9242,15980,3684,5750,5526,3715,12368
+A1T643M1P572AA
+Desktop
+39 - 45
+Cable network
+i looked at the quality and tried to see if their was a blue or any stalls in the video
+2,4,4,5,4,5,5

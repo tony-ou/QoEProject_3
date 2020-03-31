@@ -1,0 +1,201 @@
+LOG OF Soccer_720p_4_3000k_720 SURVEY RESULTS
+
+########
+#GRADES#
+########
+
+RAW GRADES:
+[5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[2 1 1 3 1 1 1 2 3 1 1 1 2 1 2 3 2 1 2 3 2 3 1 1 1 2 3 2]
+[3 1 1 1 1 1 2 2 4 1 1 1 2 1 2 2 3 1 2 2 1 4 1 1 1 3 3 2]
+[3 1 1 3 1 1 1 2 3 1 2 1 2 2 2 2 3 1 2 2 3 2 1 1 1 3 3 2]
+[3 1 1 1 1 1 3 1 4 1 2 1 2 1 2 3 1 1 2 1 1 3 1 1 1 2 2 2]
+[2 1 1 1 1 1 1 2 2 1 1 1 2 2 2 3 4 1 2 4 1 4 1 1 1 3 3 2]
+MEAN:
+[5.    1.    1.75  1.786 1.857 1.643 1.821]
+STANDARD ERROR:
+[0.    0.    0.148 0.178 0.149 0.161 0.189]
+
+STANDARDIZED GRADES:
+[1.969 2.449 2.449 1.961 2.449 2.449 2.121 2.294 1.491 2.449 2.319 2.449
+ 2.339 2.319 2.339 1.969 1.65  2.449 2.339 1.735 2.121 1.491 2.449 2.449
+ 2.449 1.969 1.905 2.339]
+[-1.477 -0.408 -0.408 -0.784 -0.408 -0.408 -0.707 -0.918 -1.721 -0.408
+ -0.632 -0.408 -1.108 -0.632 -1.108 -1.477 -1.238 -0.408 -1.108 -1.123
+ -0.707 -1.721 -0.408 -0.408 -0.408 -1.477 -1.651 -1.108]
+[-0.615 -0.408 -0.408  0.588 -0.408 -0.408 -0.707 -0.115 -0.115 -0.408
+ -0.632 -0.408 -0.246 -0.632 -0.246  0.246 -0.516 -0.408 -0.246  0.306
+  0.    -0.115 -0.408 -0.408 -0.408 -0.615  0.127 -0.246]
+[ 0.246 -0.408 -0.408 -0.784 -0.408 -0.408  0.    -0.115  0.688 -0.408
+ -0.632 -0.408 -0.246 -0.632 -0.246 -0.615  0.206 -0.408 -0.246 -0.408
+ -0.707  0.688 -0.408 -0.408 -0.408  0.246  0.127 -0.246]
+[ 0.246 -0.408 -0.408  0.588 -0.408 -0.408 -0.707 -0.115 -0.115 -0.408
+  0.105 -0.408 -0.246  0.105 -0.246 -0.615  0.206 -0.408 -0.246 -0.408
+  0.707 -0.918 -0.408 -0.408 -0.408  0.246  0.127 -0.246]
+[ 0.246 -0.408 -0.408 -0.784 -0.408 -0.408  0.707 -0.918  0.688 -0.408
+  0.105 -0.408 -0.246 -0.632 -0.246  0.246 -1.238 -0.408 -0.246 -1.123
+ -0.707 -0.115 -0.408 -0.408 -0.408 -0.615 -0.762 -0.246]
+[-0.615 -0.408 -0.408 -0.784 -0.408 -0.408 -0.707 -0.115 -0.918 -0.408
+ -0.632 -0.408 -0.246  0.105 -0.246  0.246  0.928 -0.408 -0.246  1.021
+ -0.707  0.688 -0.408 -0.408 -0.408  0.246  0.127 -0.246]
+MEAN:
+[ 2.185 -0.885 -0.281 -0.241 -0.2   -0.356 -0.221]
+STANDARD ERROR:
+[0.057 0.087 0.057 0.07  0.069 0.084 0.09 ]
+
+#############
+#VIDEO ORDER#
+#############
+
+RAW ORDERS:
+[1 2 4 5 3 7 6]
+[1 2 5 6 4 7 3]
+[1 2 5 3 4 6 7]
+[1 2 7 6 4 5 3]
+[1 2 3 6 4 7 5]
+[1 2 4 3 6 7 5]
+[1 2 3 4 5 6 7]
+[1 2 5 6 7 3 4]
+[1 2 4 5 7 6 3]
+[1 2 3 5 6 7 4]
+[1 2 6 3 5 4 7]
+[1 2 3 7 6 5 4]
+[1 2 5 4 6 7 3]
+[1 2 6 3 5 7 4]
+[1 2 6 7 5 4 3]
+[1 2 5 4 6 7 3]
+[1 2 4 6 7 5 3]
+[1 2 6 5 4 7 3]
+[1 2 6 5 7 4 3]
+[1 2 4 3 5 6 7]
+[1 2 4 7 6 5 3]
+[1 2 6 5 3 7 4]
+[1 2 3 6 7 4 5]
+[1 2 6 7 3 4 5]
+[1 2 3 7 5 4 6]
+[1 2 3 6 7 5 4]
+[1 2 6 5 3 4 7]
+[1 2 7 4 6 3 5]
+
+#################
+#VIDEO VIEW TIME#
+#################
+
+RAW TIMES:
+[ 65073 207248  72433  53059  98178  54568  77187  57714 121452  50983
+ 119654  57822  80583  64792  80614 114967  50475 101084  73750 106625
+  54593  74613 130454  75125  81669  65928 216614 108543]
+[ 40464  86744  50811  40555 106013  39905  41237  43228  67055  35425
+  41836  36788  56239  52236  73943  59158  37534  53142  44512  79751
+  38401  44249 137245  40223  60678  35632  36751 115563]
+[ 44196  64875  48050  46217  82065  36115  43353  45846  71306  63836
+  58190  42380  55891  53848  45447  60497  41121  51684  37858  33899
+  36574  50078  68719  39246  49100  67859  37787 102189]
+[ 50889  64682  45759  40003  91117  38013  42900  63816  77497  34460
+ 139510  37744  60705  51813  45673  85010  35835  43407  40604  46790
+  59169  38659 154086  39641  45486  60357  44051  95121]
+[ 42819 136235  47138  37099  76561  39740  39333  53648  43803  45912
+  37986  35950  65635  51313  72950  48137  34140  46844  37240  38030
+  35763  56515  49441  39981  50582      0  33503  94997]
+[46284 73715 49233 36290 85358 36410 37805 66567 42398 34489 71740 37010
+ 61285 82730 45333 49197 34851 50619 43505 35082 36247 68249 54007 83274
+ 46403 71082 40821 95072]
+[ 71207  61458  48237  77261  85895  37440  41683  63932  65288  34063
+  74505  35677  69574  52400  52031  43521  34274 129145  38102  35840
+  37138  41760  92835 115065  50182  61953  35956  93418]
+MEAN:
+[89850.    56975.643 52793.786 59742.75  49689.107 54109.143 59994.286]
+
+#################
+#GRADE VIEW TIME#
+#################
+
+RAW TIMES:
+[29436  7762  6473  9242 13210 22810 66976 13164 75072 30572 28594 15530
+ 28526 14116  7644 43082 20156 38396 16731 14072 25981 47817 41553 21950
+  9083 32516  7051 10846]
+[18975 32067 12335 15980 10187 22334 11047 43994 19273 34991 22880 23149
+ 16914  7086 35567 24311  5136 45776 20201 11823 23810 30146 52124 46744
+  9314 12633  7483 10795]
+[11645  3940  9336  3684 11834  5461  9944 15064 10116 36848 13086  8677
+  6308 14471  9880  6864  9504  6990  5864 13910  7423 12451 13143 10648
+ 11733 29158  3134 34505]
+[21724  4549  7847  5750 15349  5103  7977  7421 32469  6276 10840  7467
+  7401  4731  6586  9436  5478  9277  6936 17273 58647  7909 11591 11270
+ 10076 15075 10994  8338]
+[ 8316 15351  6780  5526  6890  4972  8126 12570  9209 13549 57783  5493
+  9764  5334  8574 22973  4118  8347  6193  8261 17537 21355 10637  7540
+ 16489 71121  8512 10789]
+[ 9252  7947  9327  3715  5615  6195 14208  9601 10892  6310 10210  7359
+  7028 15115  7928  7647  5246 16774  8567  6213  4571 16971 13707 90680
+ 10739 16078  7713  8642]
+[ 9994  4935  8108 12368  9126  5967  7087  7156 22402  5811  9086  6217
+  8518  5930  7344  6148  5611 15367  6616  7367  5400  8230 13576 25259
+  8853 12606  6937 12597]
+MEAN:
+[24941.464 22395.536 11986.464 11921.071 14003.893 12294.643  9450.571]
+
+###############
+#DEVICE COUNTS#
+###############
+
+Desktop: 13
+Laptop: 13
+Tablet: 1
+Smart phone: 0
+Other device: 0
+
+##################
+#AGE GROUP COUNTS#
+##################
+
+18 - 24: 0
+25 - 31: 5
+32 - 38: 8
+39 - 45: 9
+46 - 52: 3
+53 - 59: 2
+60 and above: 1
+
+################
+#NETWORK COUNTS#
+################
+
+WiFi: 18
+Cable network: 9
+Cellular network: 1
+Other: 0
+
+###########
+#REASONING#
+###########
+
+A3QIG18VHBXBSZ: The stalls were annoying particularly during or preceding a score. Did not notice any blurring of any of the test samples. I didn't really need to look at the reference again. 
+AQ53YJDPDDLZ: The pauses right before a kick is annoying because we don't know if they scored or not. I don't need to see the reference again. 
+A1L8RL58MYU4NC: Nothing annoyed me. Guideline is superb. I didn't get confused in grading. Side-by-side made it easy but without that too one can grade it
+A1T643M1P572AA: i looked at the quality and tried to see if their was a blue or any stalls in the video
+A2BO8M77CS3SGZ: Almost all videos had the same impairments.
+A26UIS59SY4NM6: The pausing is the most annoying. It adds frustration to the mix. The blurring is ok in moderation. The side by side is not neede.
+A1FGKIKJYSL1MI: Stalling is worse than a slight blur -- I can generally still see what's going on with a blur, but the stalls make me crazy.  The grading was clear.  Only needed to see the reference video once.
+A70L26UXLTGLC: At more important points in a video with action in it a pause or a blur is more annoying. The guidelines were clear. I didn't need to continually look at the reference.
+A2J237J8KM3OCS: its a matter of action going with timestamps, sometime its annoying and sometime its enhance of your viewing experience 
+AZNIEFUIVB2H0: Blurring makes it difficult to understand what is going on.  Stalling is more annoying since it interupts the flow just when you are looking forward to an action.  Quidelines are clear.  Grading is fine.  Side-by-side helps.  Don't need  the reference after a couple of views.
+A1MIR0TP081SKT: The stalling of the video is more annoying when there is a most intresting part of the game,All the instructions are clear.
+A1CIIX0CB0GR7H: The video pausing during very crucial live-action moments, such as when someone scores a goal, is extremely annoying and takes away from the game enjoyment. The experiment was not clear in that in the beginning when you had us rate the reference video as bad, that video I could only recognize a pause in the video and nothing else. So if I am to use that as a reference, I have to mark anything with a one-second pause as the same. I wish the  timing of the pause was better explained at the beginning as to how we wan that to affect our rating.
+A21EZISIJ3JPSW: I think the guidelines were clear, but I wasn't sure about grading.  I would have ranked some of the events as annoying, not very.  I also didn't notice any blurs, but it could have been to the size on my screen. 
+A33CFLCMJNHHNC: If the impairment happens at a crucial or exciting part of the video, it is very annoying.  Guideline is clear. Not confused about grading. A reference to a 'bad' video probably is more useful.
+A1NH9LK567B862: No need for side by side comparison. Because grading the video isn't that much hard. 
+A2RR3R75ECQSKE: I often face stall videos while comparing to blur.
+A1IHI23KH87K5W: If happens during replay, not very annoying. If happens when someone about to shoot, very annoying.
+A10U3R76C454PP: sometimes the failure occurs at the least indicated moment, hindering the enjoyment of the special moment in the video
+A39C1BN9ZSQ0R2: I find stalling annoying no matter what time they happen in a video. Although they are more expected at the start of a video when things are just loading than they are at the end of a video. Everything was clear. I didn't notice any blurring in the test videos, but they all stalled at different points. I didn
+A1V6P1ZE6Q8YEW: Yes the time of impairment definitely affects how much I enjoy the video. Really enjoyed the study and understood it well. The grading was easy to understand. Looking at reference video in comparison helped make a judgement..
+A2QD9PJUKW7PKK: when there is stall for 1-2 sec it is quite annoying and when the player kick the football and then it is stall it is too much annoying and not acceptable
+AVOF14300525D: The blur was more difficult for me to distinguish, so it did not annoy me much. The other impairment stopped the video momentarily making you think there was something wrong with the video. That was annoying. The experiment guide is clear. I was not confused about the grading. The side-by-side comparison helped me. 
+ARTQWWNFA7IOD: pause of video in between more than 10sec
+A39N0WW02VT0MB: in seven videos the videos stuck on different places. the same impairment is annoying the video so that there is confusion to grade it. 
+A11SX02CICZN85: The experiment guideline is very clear and easy to understand. nothing is annoying in this hit. I haven't confuse in grading side-by-side comparison helps me to grade it easily. If it start play simultaneous means it will be much more easy   
+A2GK8NS27GDFCZ: Stalling has the worst impact for annoyance to me. I don't think I needed the side by side comparison, the video issues were obvious in each one. 
+A320QA9HJFUOZO: The impairment negatively affects my experience if it happens at an important time in the video, like during a soccer shot. Impairments are more annoying the more they interfere with the viewing experience. I did not find the side by side comparison very helpful.
+AVPD36WUJKJFS: Almost all the test videos had stall problem, Experiment guideline is clear, A little confuse on grading as all the test videos looks similar, And side by side comparison helped a lot
