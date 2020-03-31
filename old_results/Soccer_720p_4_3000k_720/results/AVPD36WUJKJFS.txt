@@ -1,0 +1,10 @@
+5,1,2,2,2,2,2
+1,2,7,4,6,3,5
+108543,115563,102189,95121,94997,95072,93418
+10846,10795,34505,8338,10789,8642,12597
+AVPD36WUJKJFS
+Laptop
+39 - 45
+WiFi
+Almost all the test videos had stall problem, Experiment guideline is clear, A little confuse on grading as all the test videos looks similar, And side by side comparison helped a lot
+2,4,4,4,4,4,4
