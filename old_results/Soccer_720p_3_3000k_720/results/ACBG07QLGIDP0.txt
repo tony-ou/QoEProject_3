@@ -1,0 +1,10 @@
+5,1,4,2,3,2,2
+1,2,5,3,4,7,6
+80393,48577,52870,47294,329640,40332,46727
+19500,10229,10190,14485,16857,9052,11939
+ACBG07QLGIDP0
+Laptop
+25 - 31
+WiFi
+I think the stalling bad experience is highly dependent on the timestamp it occurs. I didn't see any blurring on the videos I was supposed to grade but in general, it was pretty straightforward. On the last question, I think it's important to have the reference video available to check. Not always necessary, but sometimes it is, so leave it available. One more thing. Give more time to the conclusion of the task. I did this one before, with the blurr impairment, and lost the reward because it took me more than 20min to finish the task and answer this final question. The task is very interesting by the way.
+2,4,4,4,4,4,4

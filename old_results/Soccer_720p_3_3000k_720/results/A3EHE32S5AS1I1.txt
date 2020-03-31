@@ -1,0 +1,10 @@
+5,1,1,1,1,1,1
+1,2,3,7,6,4,5
+63980,40856,44968,57179,67756,79108,68677
+26965,44911,17832,12076,13887,8122,10039
+A3EHE32S5AS1I1
+Desktop
+25 - 31
+Cable network
+I think the reference is no longer needed. For me, the stalling is completely annoying whenever it occurs, because when it occurs once, it will happen again (frequently), hence i´m expecting for it and therefore not enjoying.
+2,4,4,4,4,4,4
