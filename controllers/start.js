@@ -21,7 +21,15 @@ var post_example = async (ctx, next) => {
     var video_order = [1, 2, ...getOder(3,num_vids)];
     console.log(mturkID, device, age);
     var start = new Date().getTime();
-
+    var results = fs.readdirSync('./results/')
+    
+    if (results.indexOf(mturkID+ '.txt') > -1){
+        flag = false;
+        ctx.render('repeat.html', {
+        });
+        return;
+    }
+    
     let user = {
         mturkID : mturkID,
         device : device,
