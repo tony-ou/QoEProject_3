@@ -1,0 +1,10 @@
+5,1,3,3,3,2,3
+1,2,7,4,5,6,3
+63487,46914,50833,95890,45081,49697,46956
+22139,16691,24694,8695,11459,15254,18090
+A3TLL0KRD80A5Z
+Laptop
+25 - 31
+WiFi
+Impairments when not a lot of action is happening in the video are acceptable but impairments during interesting timestamps such as scoring of a goal, passing of ball, celebrations can be very irritating and may ruin the whole streaming experience. The experiment guidelines are absolutely clear. No confusions regarding the grading. The initial reference video is more than sufficient for grading, so I don't really need to re look into the reference video again.
+2,4,4,4,4,4,4

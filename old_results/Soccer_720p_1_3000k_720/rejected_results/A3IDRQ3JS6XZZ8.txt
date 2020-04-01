@@ -1,0 +1,10 @@
+5,1,4,4,5,4,4
+1,2,5,4,7,6,3
+85406,54198,46393,46987,42514,41984,42147
+22902,25449,13782,10334,22082,10072,9050
+A3IDRQ3JS6XZZ8
+Computador portátil
+18 - 24
+Wi-fi
+As deifciencias são diferentes porque o travamento era apenas de 1 segundo e não voltava a se repetir, por exemplo. Consegui classificar de forma correta os vídeos, conforme a instrução. A comparação lado a lado no primeiro vídeo ajuda, depois não é necessária.
+2,5,5,4,2,5,3

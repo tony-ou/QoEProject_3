@@ -1,0 +1,10 @@
+5,1,4,4,4,4,4
+1,2,4,5,3,7,6
+94307,65980,63728,50203,56135,56985,50996
+29559,33469,10784,15271,32706,9335,16469
+AIV97GGKFRJON
+Smart phone
+32 - 38
+Cellular network
+As its placed side by side we are tempted to look into it 
+2,5,2,2,2,4,4

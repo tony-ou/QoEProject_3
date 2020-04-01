@@ -1,0 +1,10 @@
+5,1,1,1,1,1,1
+1,2,5,4,7,6,3
+71375,46870,83804,90881,68269,63845,63632
+10744,9036,10600,17464,24523,18850,23076
+A29RR6SV0L4D8C
+Laptop
+25 - 31
+Cellular network
+some videos has low quality.The experiment guideline was clear
+2,5,4,4,4,4,5
